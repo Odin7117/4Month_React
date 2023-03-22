@@ -1,6 +1,5 @@
-import './App.css';
 import React from 'react';
-import Time from "./components/Time";
+import Time from "./Component/Time";
 
 const App = () => {
     return (
